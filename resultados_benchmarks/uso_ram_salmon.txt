@@ -1,0 +1,36 @@
+Tiempo de ejecución: 0 segundos.
+Tiempo de ejecución: 0 segundos.
+Tiempo de ejecución: 0 segundos.
+Tiempo de ejecución: 0 segundos.
+Uso de RAM actual: 25 MB
+Uso de RAM actual: 6325 MB
+Uso de RAM actual: 7178 MB
+Uso de RAM actual: 7766 MB
+Uso de RAM actual: 8110 MB
+Uso de RAM actual: 8470 MB
+Uso de RAM actual: 8890 MB
+Uso de RAM actual: 8918 MB
+Uso de RAM actual: 9058 MB
+Uso de RAM actual: 9442 MB
+Uso de RAM actual: 9442 MB
+Uso de RAM actual: 9442 MB
+Uso de RAM actual: 9442 MB
+Uso de RAM actual: 9762 MB
+Uso de RAM actual: 9962 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10082 MB
+Uso de RAM actual: 10077 MB
+Uso de RAM actual: 10077 MB
+Uso de RAM actual: 10077 MB
+Uso de RAM actual: 10077 MB
+Uso de RAM actual: 10077 MB
+Uso de RAM actual: 10077 MB
+Tiempo de ejecución: 312 segundos.
